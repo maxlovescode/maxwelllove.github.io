@@ -40,7 +40,8 @@ video {
 }
 
 .nav {
-  background-color: #FFEE00;
+  background-color: black;
+  color: white;
   max-width: 25%;
   min-width: 140px;
   flex: 1;
