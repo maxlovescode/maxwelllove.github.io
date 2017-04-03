@@ -38,6 +38,7 @@ video {
 .main {
   padding-left: 30px;
   min-width: 75%;
+  justify-content: center;
 }
 
 .nav {
