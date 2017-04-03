@@ -1,5 +1,5 @@
 body {
-  font: 16px Helvetica, Sans-Serif;
+  font: 16px 'Lato', Sans-Serif;
 }
 
 #pic {
@@ -8,6 +8,7 @@ body {
   width: auto; 
   max-width: 200px; 
   max-height: 250px;
+  border: 2px solid black;
 }
 
 #pic2 {
@@ -16,6 +17,7 @@ body {
   width: auto; 
   max-width: 400px; 
   max-height: 250px;
+  border: 2px solid black;
 }
 
 #container {
