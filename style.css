@@ -8,6 +8,7 @@ html, body {
 h1 {
   font-size: 48px;
   font-family: Palatino, 'Palatino Linotype', serif;
+  justify-content: center;
 }
 
 p {
@@ -26,11 +27,6 @@ div {
   width: 100%;
 }
 
-video {
-  background-color: #000000;
-  border: 2px solid black;
-}
-
 .container {
   display: flex;
 }
@@ -38,7 +34,7 @@ video {
 .main {
   padding-left: 30px;
   min-width: 75%;
-  justify-content: center;
+
 }
 
 .nav {
