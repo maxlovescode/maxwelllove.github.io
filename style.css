@@ -13,11 +13,10 @@ body {
 }
 
 #pic2 {
-  margin: auto;
   height: auto; 
   width: auto; 
-  max-width: 500; 
-  max-height: 350;
+  max-width: 400; 
+  max-height: 300;
   border: 3px solid black;
 }
 
