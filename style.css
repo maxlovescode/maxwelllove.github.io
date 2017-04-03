@@ -12,11 +12,11 @@ body {
 }
 
 #pic2 {
-  float: center;
+  float: middle;
   height: auto; 
   width: auto; 
-  max-width: 400px; 
-  max-height: 250px;
+  max-width: 500; 
+  max-height: 350;
   border: 2px solid black;
 }
 
@@ -47,7 +47,7 @@ body {
 
 #content-education-header {
   font-size: 28px;
-  padding: 5px;
+  padding-top: 5px;
 }
 
 .date {
