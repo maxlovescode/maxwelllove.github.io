@@ -12,7 +12,7 @@ body {
 }
 
 #pic2 {
-  float: middle;
+  margin: auto;
   height: auto; 
   width: auto; 
   max-width: 500; 
