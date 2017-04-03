@@ -1,11 +1,13 @@
 body {
   font: 16px Helvetica, Sans-Serif;
-  background: ;
 }
 
 #pic {
   float: right;
-
+  height: auto; 
+  width: auto; 
+  max-width: 300px; 
+  max-height: 300px;
 }
 
 #container {
@@ -35,14 +37,6 @@ body {
 
 .date {
   float: right;
-}
-
-.rotate90 {
-    -webkit-transform: rotate(90deg);
-    -moz-transform: rotate(90deg);
-    -o-transform: rotate(90deg);
-    -ms-transform: rotate(90deg);
-    transform: rotate(90deg);
 }
 
 h3 {
