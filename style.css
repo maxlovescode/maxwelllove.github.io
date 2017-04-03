@@ -1,5 +1,5 @@
 body {
-  font: 16px 'Lato', Sans-Serif;
+  font: 14px 'Lato', Sans-Serif;
 }
 
 #pic {
@@ -21,24 +21,15 @@ body {
 }
 
 #container {
-  width: 800px;
+  width: 1000px;
   margin: 40px auto 60px;
 }
 
 #content-contact {
   margin: 0 0 16px 0;
-  padding: 0 0 16px 0;
-  font-size: 42px;
+  font-size: 36px;
   font-weight: bold;
-  letter-spacing: -2px;
-  border-bottom: 1px solid #999;
-}
-
-#content-summarycontent {
-  margin: 0 0 16px 0;
-  padding: 0 0 32px 0;
-  font-style: italic;
-  font-size: 20px;
+  border-bottom: 2px solid black;
 }
 
 #content-professional-header {
@@ -55,10 +46,10 @@ body {
 }
 
 h3 {
-  border-bottom: 1px solid #999;
+  border-bottom: 1px solid black;
 }
 
-h4{
+h4 {
   margin-top: 0px;
   margin-bottom: 0px;
 }
