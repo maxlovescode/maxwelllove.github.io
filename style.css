@@ -10,6 +10,14 @@ body {
   max-height: 250px;
 }
 
+#pic2 {
+  float: center;
+  height: auto; 
+  width: auto; 
+  max-width: 400px; 
+  max-height: 250px;
+}
+
 #container {
   width: 800px;
   margin: 40px auto 60px;
